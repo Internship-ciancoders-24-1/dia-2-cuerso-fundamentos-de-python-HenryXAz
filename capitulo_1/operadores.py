@@ -1,0 +1,7 @@
+print('suma 2+3=', 2+3)
+print('resta 10-2=', 10-2)
+print('multiplicacion 2*8=', 2*8)
+print('division 10/5=', 10/5)
+print('division sin decimales 10//4=', 10//4)
+print('potencia 2**8=', 2**8)
+print('modulo 10%4=', 10%4)
