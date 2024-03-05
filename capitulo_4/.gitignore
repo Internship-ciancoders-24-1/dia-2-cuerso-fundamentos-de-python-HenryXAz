@@ -1,0 +1,7 @@
+*.swp
+*.csv
+__pycache__
+
+clients/__pycache__
+
+venv/
